@@ -2,4 +2,4 @@
 A Controlled-Access CDN.
 
 ### Credits
-- [Controlled-Access CDN](https://github.com/hcpty/controlled-access-cdn)
+- [Controlled-Access CDN - Hcpty](https://github.com/hcpty/controlled-access-cdn)
