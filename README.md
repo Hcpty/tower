@@ -8,7 +8,7 @@ A controlled-access CDN (Content Delivery Network) gateway.
   - [Apache Kafka](https://kafka.apache.org/)
 
 - /
-  - [Oracle JDK](https://docs.oracle.com/en/java/javase/21/)
+  - [Oracle JDK](https://docs.oracle.com/en/java/javase/17/)
   - [Apache Cassandra](https://cassandra.apache.org/)
 
 - /
