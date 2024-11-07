@@ -26,3 +26,6 @@ A controlled-access CDN (Content Delivery Network) gateway.
 
 - Gateway
   - [F5 NGINX](https://www.f5.com/products/nginx)
+
+- Domain Name Resolver
+  - [TLF CoreDNS](https://github.com/coredns/coredns)
