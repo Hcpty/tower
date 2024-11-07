@@ -9,9 +9,7 @@ A controlled-access CDN (Content Delivery Network) gateway.
 
 - Resource Processor
   - [Oracle JDK](https://docs.oracle.com/en/java/javase/21/) and [Apache Maven](https://maven.apache.org/)
-  - [Apache Cassandra Java Client](https://github.com/apache/cassandra-java-driver)
-  - [Hcpty Tesseract](https://github.com/hcpty/tesseract)
-  - [Apache Kafka Java Client](https://kafka.apache.org/documentation/#api)
+  - [Apache Cassandra Java Client](https://github.com/apache/cassandra-java-driver), [Hcpty Tesseract](https://github.com/hcpty/tesseract) and [Apache Kafka Java Client](https://kafka.apache.org/documentation/#api)
 
 - Message Queue
   - [Oracle JDK](https://docs.oracle.com/en/java/javase/21/)
@@ -19,8 +17,7 @@ A controlled-access CDN (Content Delivery Network) gateway.
 
 - User Interface
   - [Oracle JDK](https://docs.oracle.com/en/java/javase/21/) and [Apache Maven](https://maven.apache.org/)
-  - [Eclipse Vert.x Core](https://github.com/eclipse-vertx/vert.x)
-  - [Apache Kafka Java Client](https://kafka.apache.org/documentation/#api)
+  - [Eclipse Vert.x Core](https://github.com/eclipse-vertx/vert.x) and [Apache Kafka Java Client](https://kafka.apache.org/documentation/#api)
 
 - Gateway
   - [F5 NGINX](https://www.f5.com/products/nginx)
