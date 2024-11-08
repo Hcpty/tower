@@ -17,7 +17,7 @@ A controlled-access CDN (Content Delivery Network) gateway.
 
 - User Interface
   - [Oracle JDK](https://docs.oracle.com/en/java/javase/21/) and [Apache Maven](https://maven.apache.org/)
-  - [Oracle Java & APIs](https://docs.oracle.com/en/java/javase/21/), [Eclipse Vert.x Core](https://github.com/eclipse-vertx/vert.x) and [Apache Kafka Java Client](https://kafka.apache.org/documentation/#api)
+  - [Oracle Java & APIs](https://docs.oracle.com/en/java/javase/21/), [Apache Kafka Java Client](https://kafka.apache.org/documentation/#api) and [Eclipse Vert.x Core](https://github.com/eclipse-vertx/vert.x)
 
 - Gateway
   - [F5 NGINX](https://www.f5.com/products/nginx)
