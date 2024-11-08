@@ -13,7 +13,7 @@ A controlled-access CDN (Content Delivery Network) gateway.
 
 - Resource Processor
   - [Oracle JDK](https://docs.oracle.com/en/java/javase/21/), [Apache Maven](https://maven.apache.org/) and [Oracle Java & APIs](https://docs.oracle.com/en/java/javase/21/)
-  - [Hcpty Tesseract](https://github.com/Hcpty/tesseract) and [Hcpty Bifrost](https://github.com/Hcpty/bifrost)
+  - [Hcpty Tesseract](https://github.com/Hcpty/tesseract) and [Apache Kafka Java Client](https://kafka.apache.org/documentation/#api)
 
 - User Interface
   - [Oracle JDK](https://docs.oracle.com/en/java/javase/21/), [Apache Maven](https://maven.apache.org/) and [Oracle Java & APIs](https://docs.oracle.com/en/java/javase/21/)
