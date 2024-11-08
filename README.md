@@ -9,7 +9,7 @@ A controlled-access CDN (Content Delivery Network) gateway.
 
 - Resource Processor
   - [Oracle JDK](https://docs.oracle.com/en/java/javase/21/) and [Apache Maven](https://maven.apache.org/)
-  - [Oracle Java & APIs](https://docs.oracle.com/en/java/javase/21/), [Apache Cassandra Java Client](https://github.com/apache/cassandra-java-driver), [Hcpty Tesseract](https://github.com/hcpty/tesseract) and [Apache Kafka Java Client](https://kafka.apache.org/documentation/#api)
+  - [Oracle Java & APIs](https://docs.oracle.com/en/java/javase/21/), [Apache Cassandra Java Client](https://github.com/apache/cassandra-java-driver) and [Apache Kafka Java Client](https://kafka.apache.org/documentation/#api)
 
 - Message Queue
   - [Oracle JDK](https://docs.oracle.com/en/java/javase/21/)
