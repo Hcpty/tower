@@ -6,6 +6,7 @@ A controlled-access CDN (Content Delivery Network) gateway.
 - Database
   - [Oracle JDK](https://docs.oracle.com/en/java/javase/17/)
   - [Apache Cassandra](https://cassandra.apache.org/)
+  - [Ceph](https://ceph.io/)
 
 - Message Queue
   - [Oracle JDK](https://docs.oracle.com/en/java/javase/21/)
